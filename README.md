@@ -21,5 +21,5 @@ This project is a responsive dashboard built with React and Material UI. It incl
  
 
 ## Technologies Used
-- React
+- Reactjs
 - Material UI
