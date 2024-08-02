@@ -13,13 +13,28 @@ This project is a responsive dashboard built with React and Material UI. It incl
   - Recent orders table
   - Customer feedback section
 
-## Setup
-
-1. Clone the repository: git clone <url>
-2. Install dependencies:npm install
-3. Start the development server: npm start
- 
-
 ## Technologies Used
 - Reactjs
 - Material UI
+
+## ⭕Steps to run our Project :
+
+✨Clone the repository.
+
+✨Run the command `npm install` in both the frontend and backend folders.
+
+✨Run the command `npm start` in the frontend folder run on localhost:3000.
+
+## 🔗 Profile Links✨
+
+
+
+
+ | Collaborators| Resume | Github                                                                                                                         |Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    |
+| -------------| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shikha Gupta | [![Resume](https://img.shields.io/badge/my_Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) |  
+
+
+
+
+<h1 align="center">THANK YOU</h1>
